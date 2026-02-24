@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+handgesture/
+handgesture.zip
+handgesture.zip/
+
 # C extensions
 *.so
 
